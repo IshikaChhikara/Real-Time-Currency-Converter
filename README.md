@@ -4,7 +4,7 @@ A responsive Currency Converter web application built using HTML, CSS, and JavaS
 
 ## 🚀 Live Demo
 
-🔗 [View Live Project](YOUR_LIVE_LINK_HERE)
+🔗 https://ishikachhikara.github.io/Real-Time-Currency-Converter/
 
 ## ✨ Features
 
