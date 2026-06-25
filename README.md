@@ -37,8 +37,7 @@ Currency-Converter/
 
 1. Clone the repository
  
-git clone https://github.com/IshikaChhikara/Currency-Converter.git
-
+git clone https://github.com/IshikaChhikara/Real-Time-Currency-Converter
 2. Open the project folder
 
 cd Currency-Converter
