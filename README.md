@@ -36,11 +36,12 @@ Currency-Converter/
 ## ⚙️ Installation
 
 1. Clone the repository
+   
+ https://github.com/IshikaChhikara/Real-Time-Currency-Converter
  
-git clone https://github.com/IshikaChhikara/Real-Time-Currency-Converter
 2. Open the project folder
 
-cd Currency-Converter
+  cd Currency-Converter
 
 3. Run index.html in your browser.
 
